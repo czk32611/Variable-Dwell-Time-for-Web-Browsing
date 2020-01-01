@@ -1,0 +1,24 @@
+# Variable Dwell-Time to Accelerate Gaze-Based Web Browsing  
+
+
+## 2. Fuse the decision from EEG signal and eye gaze by Bayesian integration.
+![Hybrid System](https://raw.githubusercontent.com/czk32611/Variable-Dwell-Time-for-Web-Browsing/master/Figure/ui.png)
+
+
+The demo of this work can be found in https://youtu.be/xyn6AthUFmc.
+
+### Bibtex 
+ 
+    @article{chen2019using,
+     title={Using variable dwell time to accelerate gaze-based web browsing with two-step selection},
+     author={Chen, Zhaokang and Shi, Bertram E},
+     journal={International Journal of Human--Computer Interaction},
+     volume={35},
+     number={3},
+     pages={240--255},
+     year={2019},
+     publisher={Taylor \& Francis}
+     }
+     
+ 
+
