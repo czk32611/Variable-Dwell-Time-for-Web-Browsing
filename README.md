@@ -1,6 +1,6 @@
 # Variable Dwell Time to Accelerate Gaze-Based Web Browsing
 
-We proposed a method that dynamically adjust the dwell time for each hyperlink in a gaze-based web browser using a two step selection policy. We first estimate the probability of each hyperlink of being the intended target of the user by hidden Markov model based on the user's past gaze trajectory. We then assign different dwell times to different hyperlinks, where a hyperlink with a higher probability of being the target is assigned a shorter dwell time.
+We propose a method that dynamically adjust the dwell time for each hyperlink in a gaze-based web browser using a two step selection policy. We first estimate the probability of each hyperlink of being the intended target of the user by hidden Markov model based on the user's past gaze trajectory. We then assign different dwell times to different hyperlinks, where a hyperlink with a higher probability of being the target is assigned a shorter dwell time.
 
 ## Description
 ## 1. User Interface.
